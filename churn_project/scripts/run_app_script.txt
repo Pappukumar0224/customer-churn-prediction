@@ -1,0 +1,14 @@
+http://192.168.1.2:8501
+
+D:\> cd\churn_project
+
+D:\churn_project> cd\churn_project\app
+
+D:\churn_project\app>python -m streamlit run app.py
+
+
+Stop app:
+Ctrl + C
+
+Run app:
+python -m streamlit run app.py
